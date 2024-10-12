@@ -2,7 +2,6 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'functions.php';
 
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
